@@ -21,6 +21,8 @@
     NSLog(@"Aliddmall");
     
     
+    NSLog(@"make sure the namespace Aliddmall");
+    
 }
 
 
